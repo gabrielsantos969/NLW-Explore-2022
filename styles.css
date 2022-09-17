@@ -75,11 +75,13 @@ section div{
 
 section h2 {
     letter-spacing: -0.47px;
+    cursor: default;
 }
 
 section p{
     letter-spacing: -0.18px;
     color: #A1A1AA;
+    cursor: default;
 }
 
 section ul{
