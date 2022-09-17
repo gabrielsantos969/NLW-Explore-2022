@@ -4,7 +4,9 @@ This project was made during the NLW week offered by rocketseat from 11th to 18t
 
 [Link do Aplicativo na Web](https://nlw-explore-2022-gabriel-santos.netlify.app)
 
+## Imagem do Site
 <img src="./assets/ImgWeb.jpeg"/>
 
+## Video do Site
 https://user-images.githubusercontent.com/69515741/190837469-6bebc284-730e-47a9-b508-053ee2c36b79.mp4
 
